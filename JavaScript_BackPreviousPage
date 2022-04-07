@@ -1,0 +1,7 @@
+Create a button to back to the previou Page on SQL Server Reporting Service SSRS
+
+1 - Create a Button or Text
+2 - Click on Action
+3 - Click on Go to URL
+4 - Select fx (Function)
+5 - ="javascript: history.go(-1)"
