@@ -1,0 +1,2 @@
+SELECT item INTO #BinInclude
+	FROM dbo.udf_DelimitedSplit8k(@BinInclude, ',')
