@@ -1,0 +1,3 @@
+MM deve ser maiusculo
+
+=Format(Cdate(Fields!ModifiedDate.Value),"dd/MM/yyyy")
