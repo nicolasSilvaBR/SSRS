@@ -1,0 +1,5 @@
++chr(10) Para criar cada valor alinhado um embaixo do outro, formatar o numerro com separacao decimal
+
+="Total of the Day: "+ Format(Fields!NettWeight.Value,"#,##0.##")
+	+chr(10)+"The Difference From Previous Week is: " + Format(Fields!Difference.Value,"#,##0.##")
+	+chr(10)+ "Percentage: "+ format(Fields!Percentage.Value,"0.00%")
