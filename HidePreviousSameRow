@@ -1,0 +1,1 @@
+=IIf(Previous(Fields!Name.Value) = Fields!Name.Value, True, False)
